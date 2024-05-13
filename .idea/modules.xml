@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clasesgenericas/Ej1/Ej1.iml" filepath="$PROJECT_DIR$/Clasesgenericas/Ej1/Ej1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clasesgenericas/Ej2/Ej2.iml" filepath="$PROJECT_DIR$/Clasesgenericas/Ej2/Ej2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clasesgenericas/Ej3/Ej3.iml" filepath="$PROJECT_DIR$/Clasesgenericas/Ej3/Ej3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clasesgenericas/Ej4/Ej4.iml" filepath="$PROJECT_DIR$/Clasesgenericas/Ej4/Ej4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticoLog/Ejercicio 1/Ejercicio 1.iml" filepath="$PROJECT_DIR$/PracticoLog/Ejercicio 1/Ejercicio 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TareaUML/Ejercicio3/Ejercicio3.iml" filepath="$PROJECT_DIR$/TareaUML/Ejercicio3/Ejercicio3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Laboratorio-2.iml" filepath="$PROJECT_DIR$/Laboratorio-2.iml" />
     </modules>
   </component>
