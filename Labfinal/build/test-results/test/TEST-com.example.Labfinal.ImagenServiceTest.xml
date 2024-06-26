@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.Labfinal.ImagenServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-06-18T22:08:18" hostname="DESKTOP-VKQ1AR2" time="1.912">
+  <properties/>
+  <testcase name="testEliminarImagenPorId()" classname="com.example.Labfinal.ImagenServiceTest" time="1.759"/>
+  <testcase name="testObtenerTodasLasImagenes()" classname="com.example.Labfinal.ImagenServiceTest" time="0.1"/>
+  <testcase name="testObtenerImagenPorId()" classname="com.example.Labfinal.ImagenServiceTest" time="0.009"/>
+  <testcase name="testGuardarImagen_LanzaExcepcion()" classname="com.example.Labfinal.ImagenServiceTest" time="0.019"/>
+  <testcase name="testGuardarImagen()" classname="com.example.Labfinal.ImagenServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
